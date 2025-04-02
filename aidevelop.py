@@ -12,6 +12,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
+# 추가함 이 부분
+
 try:
     # NLTK 데이터 다운로드
     nltk.data.find('tokenizers/punkt')
