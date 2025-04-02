@@ -1,0 +1,53 @@
+# 문서 분석 결과: 입력 텍스트
+
+## 요약
+ A lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion . As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside .
+
+## 감정 분석
+감정: POSITIVE, 확률: 1.00
+
+## 주요 키워드
+1. the (점수: 1.0745)
+2. of (점수: 0.5712)
+3. through (점수: 0.3061)
+4. and (점수: 0.2484)
+5. echoed (점수: 0.1972)
+6. symphony (점수: 0.1972)
+7. across (점수: 0.1530)
+8. as (점수: 0.1530)
+9. beauty (점수: 0.1530)
+10. below (점수: 0.1530)
+
+## 키워드 설명
+### the
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### of
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### through
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### and
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### echoed
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### symphony
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### across
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### as
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### beauty
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+### below
+In the heart of the bustling metropolis, where towering skyscrapers pierced the clouds and the symphony of urban life echoed through the labyrinthine streets, a lone artist, armed with a paintbrush and a vivid imagination, sought to capture the essence of human emotion, transforming fleeting moments into timeless works of art. As the sun dipped below the horizon, casting long shadows across the golden fields of wheat, a gentle breeze rustled through the tall stalks, creating a soothing melody that echoed through the tranquil countryside, a symphony of nature's beauty.
+
+## 워드 클라우드
+워드 클라우드 이미지: wordcloud.png
